@@ -1,8 +1,32 @@
 bonjour traceo 
+<<<<<<< HEAD
+<<<<<<< HEAD
+modification de traceo
+=======
 mofification de amnzo
+<<<<<<< HEAD
 gdt gtry  lgi hg  hg hhg  v gbgg hgjjg  hghg  ghhgkklejbgf  fhghfgbsnjd nhgfbnjnfbf 
 
 app.get('/api', function(request, response) {
     response.json({ message: "Welcome to bezkoder application." });
 });
 app.listen(port, () => console.log(`Hello world app listening on port ${port}!`));
+=======
+>>>>>>> 3d2a561e8e55ab9cb71474b1e9ab2617fd153342
+=======
+mofification de amnzo
+gdt gtry  lgi hg  hg hhg  v gbgg hgjjg  hghg  ghhgkklejbgf  fhghfgbsnjd nhgfbnjnfbf 
+>>>>>>> abb42e93c1f815b0a233afdfef87287887a9ae92
+TARCEO MOHAMED SALMI ADDE THIS
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql', # on utilise l'adaptateur postgresql
+        'NAME': 'pdf', # le nom de notre base de donnees creee precedemment
+        'USER': 'root', # attention : remplacez par votre nom d'utilisateur
+        'PASSWORD': '',
+        'HOST': '127.0.0.1',
+        'PORT': '',
+    }
+}
+>>>>>>> b00542cd8239a416244be6c7872414063f54d769
