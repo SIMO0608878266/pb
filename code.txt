@@ -10,3 +10,14 @@ mofification de amnzo
 gdt gtry  lgi hg  hg hhg  v gbgg hgjjg  hghg  ghhgkklejbgf  fhghfgbsnjd nhgfbnjnfbf 
 >>>>>>> abb42e93c1f815b0a233afdfef87287887a9ae92
 TARCEO MOHAMED SALMI ADDE THIS
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.mysql', # on utilise l'adaptateur postgresql
+        'NAME': 'pdf', # le nom de notre base de donnees creee precedemment
+        'USER': 'root', # attention : remplacez par votre nom d'utilisateur
+        'PASSWORD': '',
+        'HOST': '127.0.0.1',
+        'PORT': '',
+    }
+}
