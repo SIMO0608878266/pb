@@ -1,2 +1,6 @@
 bonjour traceo 
+<<<<<<< HEAD
 modification de traceo
+=======
+mofification de amnzo
+>>>>>>> 3d2a561e8e55ab9cb71474b1e9ab2617fd153342
