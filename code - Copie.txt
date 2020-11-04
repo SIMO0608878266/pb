@@ -1,0 +1,18 @@
+bonjour samira
+efjçhhfg orghihghzhg nbghzehg ihigzehoghez ojgozhghozeh ohghzhghzoe 
+
+timguidch
+ 
+  onSubmit(signInForm: NgForm) {
+    if (!signInForm.valid) {
+      this.isFormValid = true;
+      this.areCredentialsInvalid = false;
+      return;
+    }
+    this.checkCredentials(signInForm);
+
+  }
+
+
+  add a fo branc to git
+  now i'am satified to do this 
